@@ -147,3 +147,4 @@ var facebook_1 = require("./facebook");
 var facebook = new facebook_1.Facebook(4, false);
 facebook.like();
 console.log("Tienes " + facebook.likeCounter + " likes y el bot\u00F3n est\u00E1 " + facebook.isClicked);
+//nuevo comentario
